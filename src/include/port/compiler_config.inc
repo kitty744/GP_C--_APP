@@ -1,10 +1,7 @@
 /**
  * Copyright (c) 2026 Trollycat
- * This file contains macros for compiler configurations
+ * Contains macros for compiler configurations
  */
-
-#ifndef TEST_APP_COMPILER_CONFIG_INC_
-#define TEST_APP_COMPILER_CONFIG_INC_
 
 // 1. Built-in detector
 #ifndef TEST_APP_HAVE_BUILTIN
@@ -68,5 +65,3 @@
 #define TEST_APP_HAVE_THREAD_SANITIZER 0
 #endif
 #endif
-
-#endif // TEST_APP_COMPILER_CONFIG_INC_

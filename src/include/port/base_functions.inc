@@ -3,9 +3,6 @@
  * Defines common function wrappers for the TEST_APP codebase.
  */
 
-#ifndef TEST_APP_BASE_FUNCTIONS_INC_
-#define TEST_APP_BASE_FUNCTIONS_INC_
-
 #include <iostream>
 #include <cstdio>
 #include <string>
@@ -218,5 +215,3 @@ TEST_APP_ALWAYS_INLINE VOID log_error(IN CONST CHAR* msg) {
     print("[ERROR] ");
     println(msg);
 }
-
-#endif

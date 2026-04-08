@@ -1,6 +1,6 @@
 /**
  * Copyright (c) 2026 Trollycat
- * This file cleans up macros defined in port_def.inc.
+ * Undefines macros defined in port_def.inc.
  */
 
 #undef TEST_APP_PORT_
