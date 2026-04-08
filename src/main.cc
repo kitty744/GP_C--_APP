@@ -4,7 +4,7 @@
  */
 
 #include "main.hh"
-#include "managers/mem_protection.hh"
+#include "guards/memProtection.hh"
 
 INT main(MAIN_ARGC_ARGV_PARAM)
 {

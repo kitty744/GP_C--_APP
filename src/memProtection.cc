@@ -7,7 +7,7 @@
  */
 
 #include "main.hh"
-#include "managers/mem_protection.hh"
+#include "guards/memProtection.hh"
 
 #include <cstdlib>
 #include <algorithm>
