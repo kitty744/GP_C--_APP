@@ -28,6 +28,8 @@ typedef unsigned int        UINT;
 typedef long                LONG;
 typedef unsigned long       ULONG;
 
+typedef unsigned long       DWORD;
+
 typedef float               FLOAT;
 typedef double              DOUBLE;
 

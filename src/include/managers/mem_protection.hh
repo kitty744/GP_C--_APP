@@ -9,7 +9,7 @@
 #ifndef TEST_APP_MEM_PROTECTION_HH_
 #define TEST_APP_MEM_PROTECTION_HH_
 
-#include "../port/base_types.inc"
+#include "../global/base_types.inc"
 
 #include <vector>
 #include <mutex>

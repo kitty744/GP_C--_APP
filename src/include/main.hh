@@ -7,9 +7,9 @@
 #define TEST_APP_MAIN_HH_
 
 // These #include are global
-#include "port/port_def.inc"
-#include "port/base_types.inc"
-#include "port/base_functions.inc"
+#include "global/port_def.inc"
+#include "global/base_types.inc"
+#include "global/base_functions.inc"
 
 // Defines C/C++ style 'main' function parameters
 // NOTE: It's not best practice to use a macro, this is will probably be deprecated
