@@ -11,8 +11,4 @@
 #include "global/base_types.inc"
 #include "global/base_functions.inc"
 
-// Defines C/C++ style 'main' function parameters
-// NOTE: It's not best practice to use a macro, this is will probably be deprecated
-#define MAIN_ARGC_ARGV_PARAM IN INT argc, IN CHAR **argv
-
 #endif // TEST_APP_MAIN_HH_
